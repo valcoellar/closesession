@@ -4,7 +4,7 @@ REM Establecer el tiempo máximo de inactividad en 30 minutos (en segundos)
 REM set MAX_IDLE_TIME=1800
 
 REM Establecer el tiempo máximo de inactividad en 10 minutos (en segundos)
-REM set MAX_IDLE_TIME=60
+set MAX_IDLE_TIME=60
 
 
 REM Obtener la lista de sesiones activas
